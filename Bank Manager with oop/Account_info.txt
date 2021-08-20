@@ -1,0 +1,3 @@
+Account number is...5252
+Name of the user is...ffgwgw
+User's starting balance is...400
